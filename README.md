@@ -1,7 +1,9 @@
-# Predicting Cryptocurrency rally using Logistic Regression
+# A comparison of Linear Models in predicting rally in prices of Bitcoin
 
 # Introduction
-I will be using logistic regression to predict a arally in cryptocurrencies. I define a rally as successive second order higher highs and higher lows. First order higher highs are closing prices that are higher than both immediately preceding and succeeding closing prices. Second order higher highs are first order higher highs that are higher than preceding and succeeding first order higher highs. Likewise, the second order lower lows are first order lower lows that are lower than preceding and succeeding first order lower lows. 
+Bitcoin has had a spectacular rally since September 2020 generating a 255% return since then. The rally has however been quite volatile with 11 separate sessions seeing intraday losses of 10% or more. While the long term returns on Bitcoin are subject to fundamental analysis with many believing that Bitcoin has topped out, there are still opportunities on smaller time frames that traders can exploit for profit. The aim of this research is to use and compare linear models to predict rally in Bitcoin prices on an hourly scale.
+
+Predicting a rally in Bitcoin involves predciting the truning pont of a sell-off. For this defining a rally is necessary. Here a rally is defined as a successive second order higher highs and higher lows. First order higher highs are closing prices that are higher than both immediately preceding and succeeding closing prices. Second order higher highs are first order higher highs that are higher than preceding and succeeding first order higher highs. Likewise, the second order lower lows are first order lower lows that are lower than preceding and succeeding first order lower lows. 
 
 <img src="https://user-images.githubusercontent.com/79707074/109423661-70746200-7a06-11eb-8639-649b3588c58a.png" width="300">
 
