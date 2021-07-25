@@ -1,0 +1,7 @@
+## Links of relevant JSON files (1 hour)
+# BTC-USD https://advcharts.investing.com/advinion2016/advanced-charts/56/56/23/GetRecentHistory?strSymbol=945629&iTop=1500&strPriceType=bid&strFieldsMode=allFields&strUserID=223062396&strExtraData=lang_ID=56&strTimeFrame=60M
+# BCH-USD https://advcharts.investing.com/advinion2016/advanced-charts/56/56/23/GetRecentHistory?strSymbol=1058255&iTop=1500&strPriceType=bid&strFieldsMode=allFields&strUserID=223062396&strExtraData=lang_ID=56&strTimeFrame=60M
+# BTG-USD https://advcharts.investing.com/advinion2016/advanced-charts/56/56/23/GetRecentHistory?strSymbol=1053071&iTop=1500&strPriceType=bid&strFieldsMode=allFields&strUserID=223062396&strExtraData=lang_ID=56&strTimeFrame=60M
+# ETH-USD https://advcharts.investing.com/advinion2016/advanced-charts/56/56/23/GetRecentHistory?strSymbol=997650&iTop=1500&strPriceType=bid&strFieldsMode=allFields&strUserID=223062396&strExtraData=lang_ID=56&strTimeFrame=60M
+# LTC-USD https://advcharts.investing.com/advinion2016/advanced-charts/56/56/23/GetRecentHistory?strSymbol=1057982&iTop=1500&strPriceType=bid&strFieldsMode=allFields&strUserID=223062396&strExtraData=lang_ID=56&strTimeFrame=60M
+# IOT-USD https://advcharts.investing.com/advinion2016/advanced-charts/56/56/23/GetRecentHistory?strSymbol=1031068&iTop=1500&strPriceType=bid&strFieldsMode=allFields&strUserID=223062396&strExtraData=lang_ID=56&strTimeFrame=60M
