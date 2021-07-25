@@ -15,10 +15,12 @@ In a typical chart highs and lows follow each other. Simiarly, second order high
 # Data and Methodology
 
 ## Identifying useful regressors
+![image](https://user-images.githubusercontent.com/79707074/126894325-04308c95-42a3-4157-a55c-ffb46d504028.png)
 
 # Model
-
-# Emprirical Findings
+glm(formula = btc_df[l1, ]$t_point ~ stochOSC[, "fastK"] + rsi + 
+    stochOSC[, "fastD"] + macd[, "macd"] + stochOSC[, "slowD"], 
+    family = "binomial")
 
 # Conclusion
 
